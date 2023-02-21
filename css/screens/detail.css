@@ -1,0 +1,28 @@
+.detail-title{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 30px;
+}
+.detail-title i{
+    font-size: 50px;
+
+}
+.detail-title input[type="submit"]{
+    cursor:pointer;
+    padding:40px 30px;
+    border:1px solid rgba(0,0,0,0.4);
+    background-color: white;
+    border-radius: 15px;
+    font-weight: 600;
+    font-size: 20px;
+}
+.detail-page__header{
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.detail-page__rank{
+    padding-left: 50px;
+}
