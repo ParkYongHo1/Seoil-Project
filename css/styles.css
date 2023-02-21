@@ -6,6 +6,7 @@
 /*screens*/
 @import "screens/home.css";
 @import "screens/detail.css";
+@import "screens/login.css";
 
 body{
     color: #2e363e;
